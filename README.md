@@ -2,12 +2,15 @@
 
 Hangman game written in Clojure.
 
+
 ### Technology Stack:
 Clojure - 1.10.0
+
 
 ### Requirements
 JDK - 1.8+
 Leiningen
+
 
 ### Steps to Setup
 Clone the application

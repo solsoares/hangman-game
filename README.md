@@ -14,12 +14,15 @@ Leiningen
 
 ### Steps to Setup
 Clone the application
+
 git clone https://github.com/solsoares/hangman-game
 
 Build the project using Leining
+
 lein uberjar
 
 Run 
+
 java -jar target/hangman-game-0.1.0-SNAPSHOT-standalone.jar
 
 

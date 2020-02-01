@@ -1,15 +1,15 @@
-# hangman-game
+# The Hangman Game
 
 Hangman game written in Clojure.
 
-# Technology Stack:
+### Technology Stack:
 Clojure - 1.10.0
 
-# Requirements
+### Requirements
 JDK - 1.8+
 Leiningen
 
-# Steps to Setup
+### Steps to Setup
 Clone the application
 git clone https://github.com/solsoares/hangman-game
 
